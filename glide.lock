@@ -1,20 +1,10 @@
-hash: 506f084c16e580d31b9ae4940cde8914b29639b0833bbe278a3ae270479e3d89
-updated: 2018-05-31T13:45:10.883510088+05:30
+hash: f72e3a9a70b089bc385d743e17709d535bfa34db9afc3925fd7696bd5ab9472c
+updated: 2018-05-31T13:56:03.20317325+05:30
 imports:
 - name: github.com/globalsign/mgo
   version: efe0945164a7e582241f37ae8983c075f8f2e870
   subpackages:
   - bson
-  - internal/json
-  - internal/sasl
-  - internal/scram
-- name: gopkg.in/mgo.v2
-  version: 3f83fa5005286a7fe593b055f0d7771a7dce4655
-  subpackages:
-  - bson
-  - internal/json
-  - internal/sasl
-  - internal/scram
 testImports:
 - name: github.com/icza/mighty
-  version: 6304d21ca6455c798ab31653f668c1f5577128de
+  version: ""
